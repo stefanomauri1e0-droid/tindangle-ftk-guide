@@ -732,7 +732,7 @@ details[open] {
 }
 
 /* === Final Mobile Optimization === */
-@media (max-width: 768px) {
+@media (max-width: 425px) {
   h2 {
     /* Increased offset to prevent header from covering section titles on mobile */
     scroll-margin-top: 260px; 
@@ -793,7 +793,7 @@ details[open] {
 }
 
 /* Specific fix for very small devices */
-@media (max-width: 400px) {
+@media (max-width: 320px) {
   h2 {
     scroll-margin-top: 280px;
   }
