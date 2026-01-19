@@ -71,3 +71,26 @@ Build and play it **for fun and learning**, not for ladder climbing.
 ---
 
 ## 📂 Repository structure
+/
+├─ index.html # Main website
+├─ style.css # Styling and animations
+├─ sitemap.xml # SEO sitemap
+├─ robots.txt # Search engine rules
+├─ og-image.jpg # Social preview image
+└─ README.md # This file
+
+---
+
+## 👤 Author
+
+**Stefano Mauri**
+
+If you enjoy the guide or find it useful, feel free to share it or link to it.
+
+---
+
+## 🃏 Yu-Gi-Oh! Disclaimer
+
+Yu-Gi-Oh! and Yu-Gi-Oh! Duel Links are trademarks of **Konami**.  
+This project is **fan-made** and not affiliated with or endorsed by Konami.
+
