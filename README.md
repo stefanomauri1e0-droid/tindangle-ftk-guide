@@ -5,7 +5,7 @@ A complete, in-depth guide to performing a **First Turn Kill (FTK)** in **Yu-Gi-
 This repository hosts a static website that explains **everything** about this extreme combo deck: from requirements and card acquisition to the exact step-by-step execution of the FTK combo.
 
 🌐 **Live Website:**  
-https://stefanomauri1e0-droid.github.io/
+https://stefanomauri1e0-droid.github.io/tindangle-ftk-guide/
 
 ---
 
